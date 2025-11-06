@@ -4,7 +4,7 @@ body {
 }
 
 .homebox {
-    background-color: aliceblue;
+    background-image: url(recipes/images/tacos.jpg);
     padding: 10px;
     padding-left: 250px;;
     padding-right: 250px;
