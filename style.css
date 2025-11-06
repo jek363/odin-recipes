@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(214, 213, 211);
+}
+
+.allbox {
+    background-color: aliceblue;
+    padding: 10px;
+    padding-left: 250px;;
+    padding-right: 250px;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.heading {
+    background-color: rgb(128, 189, 230);
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.recipelist {
+    background-color: rgb(128, 189, 230);
+    border-radius: 8px;
+}
+
+button {
+    background-color: rgb(211, 255, 254);
+    border-radius: 10px;
+    width: 175px;
+    height: auto;
+    padding: 8px;
+}
+.francese {
+    padding: 8px;
+}
+
+.tacos {
+    padding: 8px;
+}   
+
+.grilledcheese {
+    padding: 8px;
+}
